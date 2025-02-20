@@ -1,0 +1,13 @@
+# python program to find the positive or negative of a number
+
+n=int(input("Enter the number:"))
+if n>0:
+    print("It is an positive number")
+elif n<0:
+    print("It is an negative number")
+else:
+    print("It is equal to zero")
+
+output:
+Enter the number:5
+It is an positive number

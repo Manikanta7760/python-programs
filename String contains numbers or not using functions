@@ -1,0 +1,13 @@
+# python program to check the given string contains numbers or not using functions
+
+def my_function(s):
+    if s.isdigit():
+        print("Given string contains numbers")
+    else:
+        print("Given string does not contain numbers")
+s=input("Enter the character:")
+my_function(s)
+
+output:
+Enter the character:123
+Given string contains numbers

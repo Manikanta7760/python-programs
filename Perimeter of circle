@@ -1,0 +1,10 @@
+# python program to find the perimeter of circle
+
+radius=int(input("Enter the radius of circle:"))
+pi=3.14
+perimeter=2*pi*radius
+print("Perimeter of circle =",perimeter)
+
+output:
+Enter the radius of circle:8
+Perimeter of circle = 50.24
